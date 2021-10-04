@@ -1,3 +1,5 @@
+[![Docker Compose Actions Workflow](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/main.yml)
+
 ### Pre-requisite
 - Docker
 - Docker Compose
