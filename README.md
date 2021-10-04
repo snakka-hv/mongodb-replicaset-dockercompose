@@ -1,4 +1,4 @@
-[![Docker Compose Actions Workflow](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/main.yml)
+[![Docker Compose Actions Workflow](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/main.yml) [![CodeQL](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/snakka-hv/mongodb-replicaset-dockercompose/actions/workflows/codeql-analysis.yml)
 
 ### Pre-requisite
 - Docker
